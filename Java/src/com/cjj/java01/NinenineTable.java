@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 public class NinenineTable {
     //九九乘法表

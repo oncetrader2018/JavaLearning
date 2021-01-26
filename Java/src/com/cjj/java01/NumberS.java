@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 public class NumberS {
     //阶乘之和

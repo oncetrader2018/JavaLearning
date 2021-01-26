@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 public class Break {
     //生成0-100随机数，当生成到88时停，打印生成的次数
