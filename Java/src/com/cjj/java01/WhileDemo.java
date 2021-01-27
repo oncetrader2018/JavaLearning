@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 import java.util.Scanner;
 

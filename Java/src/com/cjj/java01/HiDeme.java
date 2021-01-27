@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 public class HiDeme {
     public static void main(String[] args) {

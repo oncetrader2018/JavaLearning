@@ -1,4 +1,4 @@
-package com.cjj;
+package com.cjj.java01;
 
 import java.util.Scanner;
 //使用循环分别实现将10进制整数变成二进制数
