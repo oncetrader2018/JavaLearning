@@ -30,6 +30,7 @@ public class Person1 {
 //        Dog dog = new Dog();
 //        Cat cat = new Cat();
 
+        //父类引用指向子类对象
         Pet dog = new Dog();
         Pet cat = new Cat();
         //再养个猪
