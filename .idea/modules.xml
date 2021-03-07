@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AccountCharge/AccountCharge.iml" filepath="$PROJECT_DIR$/AccountCharge/AccountCharge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DouColorBall/DouColorBall.iml" filepath="$PROJECT_DIR$/DouColorBall/DouColorBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuaColoredBall/DuaColoredBall.iml" filepath="$PROJECT_DIR$/DuaColoredBall/DuaColoredBall.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLearning.iml" filepath="$PROJECT_DIR$/JavaLearning.iml" />
     </modules>

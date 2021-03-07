@@ -25,11 +25,11 @@ public class Dog extends Pet{
 //        this.name = name;
 //    }
 //
-//    public int getAge() {
+//    public int getId() {
 //        return age;
 //    }
 //
-//    public void setAge(int age) {
+//    public void setId(int age) {
 //        this.age = age;
 //    }
 //
